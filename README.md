@@ -1,22 +1,33 @@
-# CommunityHack
 CommunityHack Code of Conduct
 
 CommunityHack and its organizers are committed to providing a welcoming and harassment-free environment for participants of all races, gender identities, sexual orientations, physical abilities, physical appearances, and beliefs.
 We’ve written this code of conduct not because we expect bad behavior from our community – which, based on our applications, is always overwhelmingly kind and civil – but because we believe a clear code of conduct is a necessary part of building a respectful community space.
-1. CommunityHack participants agree to:
-a. Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees. 
-b. Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any member of the CommunityHack team in person, via the team phone/text line, or via email. As this is a hackathon we like to explicitly note that the hacks created at our hackathon are equally subjective to the anti-harassment policy. Hacks should not involve sexualized images, activities, or other offensive material. 
-    3. Respect the venue. This is Vassar’s recently renovated Computer Science and Physics building. 
-    4. Take care of each other. Alert a member of the CommunityHack team if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem small.
+
+1.	CommunityHack participants agree to:
+a.	Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees. 
+b.	Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any member of the CommunityHack team in person, via the team phone/text line, or via email (201-245-7431, labarreto@vassar.edu). As this is a hackathon we like to explicitly note that the hacks created at our hackathon are equally subjective to the anti-harassment policy. Hacks should not involve sexualized images, activities, or other offensive material. 
+2.	Respect the venue. This is Vassar’s recently renovated Computer Science and Physics building. 
+
+3.	Take care of each other. Alert a member of the CommunityHack team if you notice a dangerous 
+situation, someone in distress, or violations of this code of conduct, even if they seem small.
 We are also adopting social rules based on the Recurse Center’s User Manual. These are guidelines for making expected behavior more well-defined. Few people set out to be jerks or annoy others, so these social rules help us all to avoid behaviors harmful to a supportive, productive, and fun learning environment.
-1. No feigning surprise - Acting surprised when people don’t know something often makes them feel bad and has zero educational benefit.
-2. No well-actually's - A well-actually is when someone explains something in a mostly-correct manner and another person interjects with a minor/irrelevant correction that derails the discussion without helping or clarifying significantly.
-3. No back-seat driving - Lobbing advice across tables or intermittently injecting yourself into conversations is a distracting interruption. We encourage helping each other out - pair programming is one of the best ways to work and learn - but that means only giving advice when it is wanted, and engaging in active discussions rather than passive tips.
-4. No subtle -isms - Racism, sexism, homophobia, transphobia, and other kinds of bias are harmful, even if subtle or unintended. Subtle -isms are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle -ism and should be avoided.
-5. When someone violates these social rules, feel free to point it out to that person. You may also ask an CommunityHack organizer to say something if you’re uncomfortable talking to that person yourself. If you are the one responsible for breaking a social rule, apologize and move on.
-6. How to Reach Us: Members of the CommunityHack team will be available via voice or text. You can find those on the images uploaded to this github repo. 
-7. If any attendee engages in harassing behavior, the hackathon organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the hackathon. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the CommunityHack team with a concise description of your grievance; any grievances filed will be considered by the entire CommunityHack team.) We welcome your feedback on this and every other aspect of CommunityHack, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
+
+4.	No feigning surprise - Acting surprised when people don’t know something often makes them feel bad and has zero educational benefit.
+
+5.	No well-actually's - A well-actually is when someone explains something in a mostly-correct manner and another person interjects with a minor/irrelevant correction that derails the discussion without helping or clarifying significantly.
+
+6.	No back-seat driving - Lobbing advice across tables or intermittently injecting yourself into conversations is a distracting interruption. We encourage helping each other out - pair programming is one of the best ways to work and learn - but that means only giving advice when it is wanted, and engaging in active discussions rather than passive tips.
+
+7.	No subtle -isms - Racism, sexism, homophobia, transphobia, and other kinds of bias are harmful, even if subtle or unintended. Subtle -isms are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle -ism and should be avoided.
+
+8.	When someone violates these social rules, feel free to point it out to that person. You may also ask an CommunityHack organizer to say something if you’re uncomfortable talking to that person yourself. If you are the one responsible for breaking a social rule, apologize and move on.
+
+9.	How to Reach Us: Members of the CommunityHack team will be available via voice or text. You can find those in this CommunityHack repo.
+If any attendee engages in harassing behavior, the hackathon organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the hackathon. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the CommunityHack team with a concise description of your grievance; any grievances filed will be considered by the entire CommunityHack team.)
+We welcome your feedback on this and every other aspect of CommunityHack, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
 Thank you.
 
-The above text is adapted from the Unhackathon’s Code of Conduct, SRCCON Code of Conduct (http://src-con.org/conduct/), the Hack Code of Conduct (http://hackcodeofconduct.org/), and the Recurse Center’s Social Rules (https://www.recurse.com/manual#sec-environment). It is licensed CC BY-SA 4.0. 
+The above text is adapted from the Unhackathon’s Code of Conduct, SRCCON Code of Conduct (http://src-con.org/conduct/), the Hack Code of Conduct (http://hackcodeofconduct.org/), and the Recurse Center’s Social Rules (https://www.recurse.com/manual#sec-environment). It is licensed CC BY-SA 4.0.
+
+
