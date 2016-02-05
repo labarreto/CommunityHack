@@ -1,4 +1,4 @@
-CommunityHack Code of Conduct
+#CommunityHack Code of Conduct
 
 CommunityHack and its organizers are committed to providing a welcoming and harassment-free environment for participants of all races, gender identities, sexual orientations, physical abilities, physical appearances, and beliefs.
 We’ve written this code of conduct not because we expect bad behavior from our community – which, based on our applications, is always overwhelmingly kind and civil – but because we believe a clear code of conduct is a necessary part of building a respectful community space.
