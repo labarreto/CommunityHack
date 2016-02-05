@@ -4,8 +4,13 @@ CommunityHack and its organizers are committed to providing a welcoming and hara
 We’ve written this code of conduct not because we expect bad behavior from our community – which, based on our applications, is always overwhelmingly kind and civil – but because we believe a clear code of conduct is a necessary part of building a respectful community space.
 
 1.	CommunityHack participants agree to:
+
 a.	Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees. 
+
+
 b.	Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any member of the CommunityHack team in person, via the team phone/text line, or via email (201-245-7431, labarreto@vassar.edu). As this is a hackathon we like to explicitly note that the hacks created at our hackathon are equally subjective to the anti-harassment policy. Hacks should not involve sexualized images, activities, or other offensive material. 
+
+
 2.	Respect the venue. This is Vassar’s recently renovated Computer Science and Physics building. 
 
 3.	Take care of each other. Alert a member of the CommunityHack team if you notice a dangerous 
